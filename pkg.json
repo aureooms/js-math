@@ -1,0 +1,17 @@
+{
+	"ns": "math",
+	"out": "js/dist/",
+	"code": {
+		"main": [
+			"js",
+			"dist",
+			"math.js"
+		],
+		"test": [
+			"test",
+			"js"
+		]
+	},
+	"debug": false,
+	"src": "js/src/"
+}
