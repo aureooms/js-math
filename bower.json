@@ -4,7 +4,7 @@
 	"homepage": "http://aureooms.github.io/js-math/",
 	"license": "AGPL-3.0",
 	"description": "math code bricks for JavaScript",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"ignore": [
 		"js/index.js",
 		"js/src",
