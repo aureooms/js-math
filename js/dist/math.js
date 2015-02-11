@@ -3,8 +3,6 @@
 	'use strict';
 
 
-/* js/src/32 */
-/* js/src/64 */
 /* js/src/compare */
 /* js/src/compare/eq.js */
 
@@ -90,7 +88,6 @@ var __lcm__ = function ( gcd ) {
 
 exports.__lcm__ = __lcm__;
 
-/* js/src/number */
 /* js/src/zfill.js */
 
 
