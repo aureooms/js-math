@@ -13,3 +13,4 @@ math code bricks for JavaScript
 [![Code Climate](http://img.shields.io/codeclimate/github/aureooms/js-math.svg?style=flat)](https://codeclimate.com/github/aureooms/js-math)
 [![NPM downloads per month](http://img.shields.io/npm/dm/aureooms-js-math.svg?style=flat)](https://www.npmjs.org/package/aureooms-js-math)
 [![GitHub issues](http://img.shields.io/github/issues/aureooms/js-math.svg?style=flat)](https://github.com/aureooms/js-math/issues)
+[![Inline docs](http://inch-ci.org/github/aureooms/js-math.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-math)
