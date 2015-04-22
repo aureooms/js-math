@@ -29,7 +29,7 @@
 	"description": "math code bricks for JavaScript",
 	"main": "js/dist/math.js",
 	"dependencies": {},
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"devDependencies": {
 		"aureooms-node-package": "^1.1.3",
 		"aureooms-js-string": "^0.0.3"
