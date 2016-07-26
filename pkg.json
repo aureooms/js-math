@@ -1,5 +1,5 @@
 {
-	"ns": "math",
+	"name": "math",
 	"out": "js/dist/",
 	"code": {
 		"main": [
