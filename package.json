@@ -14,7 +14,7 @@
 		"pow",
 		"sqrt"
 	],
-	"name": "aureooms-js-math",
+	"name": "@aureooms/js-math",
 	"homepage": "http://aureooms.github.io/js-math/",
 	"author": "aureooms",
 	"bugs": {
@@ -32,7 +32,7 @@
 	"version": "0.0.4",
 	"devDependencies": {
 		"aureooms-node-package": "^6.0.1",
-		"aureooms-js-string": "^0.2.0"
+		"@aureooms/js-string": "^0.2.0"
 	},
 	"repository": {
 		"url": "https://github.com/aureooms/js-math.git",
