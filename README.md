@@ -3,7 +3,7 @@
 
 math code bricks for JavaScript
 
-[![NPM license](https://img.shields.io/npm/l/@aureooms/js-math.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-math/master/LICENSE)
+[![License](https://img.shields.io/github/license/aureooms/js-math.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-math/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-math.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-math)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-math.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-math)
 [![Build Status](https://img.shields.io/travis/aureooms/js-math.svg?style=flat)](https://travis-ci.org/aureooms/js-math)
