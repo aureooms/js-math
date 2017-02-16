@@ -1,7 +1,7 @@
 
 var string;
 
-string = require( "aureooms-js-string" );
+string = require( "@aureooms/js-string" );
 
 test( "all", function () {
 
