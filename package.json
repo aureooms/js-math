@@ -18,7 +18,7 @@
 	"homepage": "http://make-github-pseudonymous-again.github.io/js-math/",
 	"author": "aureooms",
 	"bugs": {
-		"url": "https://github.com/aureooms/js-math/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-math/issues"
 	},
 	"license": "AGPL-3.0",
 	"scripts": {
@@ -35,7 +35,7 @@
 		"@aureooms/js-string": "^0.2.0"
 	},
 	"repository": {
-		"url": "https://github.com/aureooms/js-math.git",
+		"url": "https://github.com/make-github-pseudonymous-again/js-math.git",
 		"type": "git"
 	}
 }
