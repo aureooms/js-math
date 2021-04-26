@@ -1,4 +1,4 @@
-[js-math](http://aureooms.github.io/js-math)
+[js-math](http://make-github-pseudonymous-again.github.io/js-math)
 ==
 
 math code bricks for JavaScript

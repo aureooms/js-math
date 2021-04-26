@@ -1,7 +1,7 @@
 {
   "main": "js/dist/math.js",
   "name": "aureooms-js-math",
-  "homepage": "http://aureooms.github.io/js-math/",
+  "homepage": "http://make-github-pseudonymous-again.github.io/js-math/",
   "license": "AGPL-3.0",
   "description": "math code bricks for JavaScript",
   "version": "0.0.4",
